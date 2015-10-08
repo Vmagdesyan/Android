@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activ2">activ2</string>
+    <string name="MainPage">Поздравляю, вы на главной странице!</string>
+    <string name="LeftText">Поздравляю, вы нажали кнопку \"Left\". Для возврата нажмите кнопку \"Back\"</string>
+    <string name="TextButtonBack">Back</string>
+</resources>
